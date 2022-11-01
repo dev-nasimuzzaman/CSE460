@@ -1,0 +1,9 @@
+|AOI32
+a => y~0.IN0
+b => y~0.IN1
+c => y~1.IN1
+d => y~2.IN0
+e => y~2.IN1
+y <= y~3.DB_MAX_OUTPUT_PORT_TYPE
+
+
